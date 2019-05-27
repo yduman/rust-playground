@@ -29,7 +29,7 @@
 
 ## Useful Links
 - [Rust Crash Course | YouTube](https://www.youtube.com/watch?v=zF34dRivLOw)
-- [Syle Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
+- [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
 - [Naming Conventions](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html)
 - [The Book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
