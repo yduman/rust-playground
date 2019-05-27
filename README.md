@@ -27,3 +27,6 @@
 - Extensions
   - Rust (rls)
   - Better TOML
+
+## Useful Links
+- [Rust Crash Course | YouTube](https://www.youtube.com/watch?v=zF34dRivLOw)
