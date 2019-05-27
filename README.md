@@ -2,13 +2,12 @@
 
 ## Language features
 
-- statically typed
+- system programming language
+- statically-typed
 - block-scoped
 - variables are immutable by default
-- [style guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
-- [naming conventions](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html)
-- [the book](https://doc.rust-lang.org/book/)
-- [rust by example](https://doc.rust-lang.org/stable/rust-by-example/)
+- focus on safety and performance
+- ownership system
 
 ## Cargo
 
@@ -30,3 +29,8 @@
 
 ## Useful Links
 - [Rust Crash Course | YouTube](https://www.youtube.com/watch?v=zF34dRivLOw)
+- [Syle Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
+- [Naming Conventions](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html)
+- [The Book](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
