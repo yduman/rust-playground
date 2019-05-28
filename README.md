@@ -12,14 +12,19 @@
 ## Cargo
 
 - Cargo is the package manager of Rust
-- `$ cargo init` to create a project
-- `Cargo.toml` is something like `package.json` in JS
+- `$ cargo init` 
+  - create a project
+- `Cargo.toml` is something like `package.json`
   - Lockfile is `Cargo.lock`
-- `$ cargo run` builds and runs the binary
-- `$ cargo build` just builds the binary but doesn't run it
-- `$ cargo build --release` builds it for prod
-- `$ cargo install <crate_name>` to install packages
-  - if the package has specified no binaries, just include them in the TOML
+- `$ cargo run` 
+  - compile and run
+- `$ cargo build` 
+  - compile, but don't run
+- `$ cargo build --release` 
+  - production build
+- `$ cargo install <crate_name>` 
+  - install packages
+  - if the package has specified no binaries, just include the dependency in the TOML
 
 ## VS Code
 
